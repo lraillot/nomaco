@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Bonjour</pattern>
+    <template>Bonjour que puis-je faire pour vous ?</template>
+</category>
+<category>
+    <pattern>J'aimerai postuler au poste de superviseur</pattern>
+    <template>Très bonne idée. quels sont vos nom et prénom svp ? Moi c'est Nomaco.</template>
+</category>
+<category>
+    <pattern>Je m'appelle John Dupont</pattern>
+    <template>Merci. Et quelle est votre date de naissance ?</template>
+</category>
+<category>
+    <pattern>Je suis né le 30/05/1984</pattern>
+    <template>Bienvenue chez Nomaco Industrie
+</template>
+</category>
+</aiml>
